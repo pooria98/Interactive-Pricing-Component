@@ -16,8 +16,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Interactive pricing component solution](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Solution URL: [Interactive pricing component solution](https://www.frontendmentor.io/solutions/interactive-pricing-component-sassjs-FIDH3wZSzJ)
+- Live Site URL: [Live Site](https://pooria98.github.io/Interactive-Pricing-Component/)
 
 ### Built with
 
